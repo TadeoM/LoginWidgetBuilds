@@ -1,0 +1,8 @@
+<linker>
+	<assembly fullname="com.stardust.stardust-unity-login.Scripts" ignoreIfMissing="1">
+		<type fullname="ApiCallExample">
+			<method name="GetBalance"/>
+			<method name="GetGame"/>
+		</type>
+	</assembly>
+</linker>
